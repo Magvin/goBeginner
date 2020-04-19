@@ -1,5 +1,6 @@
 package models
 
+// User : what is this?
 type User struct {
 	ID        int
 	FirstName string

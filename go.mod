@@ -1,3 +1,2 @@
-module github.com/magvin/webservice
-
+module test-application
 go 1.14

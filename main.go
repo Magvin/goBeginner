@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/magvin/webservice/models"
+	"test-application/models"
 )
 
 func main() {
